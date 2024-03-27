@@ -49,8 +49,8 @@
 
 ### Скриншоты приложения
 
-![Screenshot-1](./public/img/Screenshot-1.png)
-![Screenshot-2](./public/img/Screenshot-2.png)
+![Screenshot-1](https://github.com/debatableoutcome/test-task-27032024/blob/master/public/img/Screenshot-1.png)
+![Screenshot-2](https://github.com/debatableoutcome/test-task-27032024/blob/master/public/img/Screenshot-2.png)
 
 ## Команды для разработки
 
